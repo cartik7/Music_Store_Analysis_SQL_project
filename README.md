@@ -1,13 +1,16 @@
-**🎵 Music Store Data Analysis Project (SQL)
-**
+**🎵 Music Store Data Analysis Project (SQL)**
 
-**📌 Project Overview
-**
+
+**📌 Project Overview**
+
+
 This project analyzes a digital music store database using SQL to answer real-world business questions related to customers, sales, invoices, genres, artists, and geographic trends.
 The objective is to demonstrate SQL querying skills, including joins, aggregations, subqueries, CTEs, and window functions, to derive meaningful business insights.
 
-**🗂 Dataset Description
-**
+
+**🗂 Dataset Description**
+
+
 
 The dataset represents a music store’s operations and includes information about:
 
@@ -20,8 +23,9 @@ The dataset represents a music store’s operations and includes information abo
 •	Sales across different countries and cities
 
 
-**🛠 Tools & Technologies
-**
+
+**🛠 Tools & Technologies**
+
 •	SQL (PostgreSQL)
 
 •	Relational Database Concepts
@@ -31,8 +35,9 @@ The dataset represents a music store’s operations and includes information abo
 •	CTEs and Window Functions
 
 
-**📊 Key Insights
-**
+
+**📊 Key Insights**
+
 •	A small group of customers contributes significantly to total revenue.
 
 •	Rock music dominates in terms of listener count and artist production.
