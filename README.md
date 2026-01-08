@@ -47,7 +47,8 @@ The dataset represents a music store’s operations and includes information abo
 •	Advanced SQL techniques help uncover country-level and artist-level trends.
 
 
-**🚀 Conclusion
-**
+**🚀 Conclusion**
+
+
 This project showcases the ability to solve business-oriented data problems using SQL, ranging from basic aggregations to advanced analytical queries.
 It demonstrates strong command over relational databases, data analysis, and SQL optimization techniques, making it suitable for Data Analyst and Business Analyst roles.
